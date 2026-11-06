@@ -1,2 +1,2 @@
 # bever-s-arcade-
-proxy for school
+test build
